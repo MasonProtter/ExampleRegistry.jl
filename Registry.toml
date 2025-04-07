@@ -3,3 +3,4 @@ uuid = "3f52de52-3c0e-4393-a527-c3074ab66e6f"
 repo = "git@github.com:MasonProtter/ExampleRegistry.jl.git"
 
 [packages]
+86dd4c19-8f36-4ac3-b7b7-36695422009c = { name = "ExampleMonorepo", path = "E/ExampleMonorepo" }

@@ -1,0 +1,3 @@
+name = "ExampleMonorepo"
+uuid = "86dd4c19-8f36-4ac3-b7b7-36695422009c"
+repo = "git@github.com:MasonProtter/ExampleMonorepo.git"

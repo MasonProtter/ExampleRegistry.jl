@@ -1,0 +1,4 @@
+[0]
+ExampleMonorepoCore = "b17e48bf-b505-4e67-af0e-6e1a8f4c3b4c"
+SubPkgA = "5e6cc6cf-3223-4ffb-924f-d119c4ec825f"
+SubPkgB = "ac303aaf-dcc4-47c0-8d38-94d92ad7ec24"
