@@ -1,0 +1,5 @@
+name = "Example Registry"
+uuid = "3f52de52-3c0e-4393-a527-c3074ab66e6f"
+repo = "git@github.com:MasonProtter/ExampleRegistry.jl.git"
+
+[packages]
